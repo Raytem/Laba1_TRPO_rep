@@ -36,7 +36,7 @@ public class work2 {
             case ("eight"):
                 System.out.println(8);
                 break;
-            case ("nine"):
+            case ("nine uber fon gitler"):
                 System.out.println(9);
                 break;
         }

@@ -10,7 +10,7 @@ public class work1 {
 
         switch (userInput) {
             case 0:
-                System.out.println("zero");
+                System.out.println("Danya plohoi");
                 break;
             case 1:
                 System.out.println("one");
